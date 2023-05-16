@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>랜덤 당첨 게임</h1>
+<fieldset>
+<legend>랜덤뽑기</legend>
+</fieldset>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!-- 지시자(Directive) : JSP 설정 정보 및 다른 문서에(를) 포함 등 -->
+<!-- 지시자의 종류 : page, include, taglib(tag library -> JSTL) -->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%> <!-- 지시자(Directive) -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

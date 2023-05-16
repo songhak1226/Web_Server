@@ -1,0 +1,42 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>랜덤 당첨 게임</h1>
+	<fieldset>
+		<legend>랜덤뽑기</legend>
+		<form>
+			<table>
+				<tr>
+					<td>이름</td>
+					<td><input type="text" name="name"></td>
+				</tr>
+				<tr>
+					<td>Java점수</td>
+					<td><input type="text" name="Java"></td>
+				</tr>
+				<tr>
+					<td>Web점수</td>
+					<td><input type="text" name="Web"></td>
+				</tr>
+				<tr>
+					<td>IoT점수</td>
+					<td><input type="text" name="iot"></td>
+				</tr>
+				<tr>
+					<td>Android점수</td>
+					<td><input type="text" name="and"></td>
+				</tr>
+				<tr>
+					<td><input type="submit" name="학점확인"></td>
+				</tr>
+			</table>
+		</form>
+	</fieldset>
+</body>
+</html>

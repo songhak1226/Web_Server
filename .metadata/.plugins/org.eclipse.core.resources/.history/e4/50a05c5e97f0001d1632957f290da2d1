@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+        table{
+            width: 400px;
+        }
+
+        .tr1{
+            height: 50px;
+            background-color: gray;
+            text-align: left;
+            
+        }
+
+        .tr2{
+            height: 35px;
+            background-color: whitesmoke;
+        }
+
+        .td1{
+            text-align: right;
+        }
+
+        .td2{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+	<form action="Ex04" method="post">
+		<table width="400px">
+			<tr class="tr1">
+				<th colspan="2">step1 : 아이디/비번 입력</th>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">아이디 :</td>
+				<td><input type="text" name="id" autofocus></td>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">비밀번호 :</td>
+				<td><input type="password" name="pw" maxlength="10"></td>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">비밀번호 확인 :</td>
+				<td><input type="password" name="checkpw" maxlength="10"></td>
+			</tr>
+
+
+			<tr class="tr1">
+				<th colspan="2">step2 : 개인정보</th>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">성별 :</td>
+				<td>남 <input type="radio" name="gender" value="man"> 
+					여 <input type="radio" name="gender" value="woman">
+				</td>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">혈액형 :</td>
+				<td><select name="bloodtype">
+						<option>A형</option>
+						<option>B형</option>
+						<option>O형</option>
+						<option>AB형</option>
+				</select></td>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">생일 :</td>
+				<td><input type="date" name="birth"></td>
+			</tr>
+
+
+			<tr class="tr1">
+				<th colspan="2">step3 : 선호도</th>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">취미 :</td>
+				<td>축구<input type="checkbox" name="hb" value="sc"> 
+					야구<input type="checkbox" name="hb" value="bs"> 
+					농구<input type="checkbox" name="hb" value="bk">
+				</td>
+			</tr>
+			<tr class="tr2">
+				<td class="td1">좋아하는 색깔 :</td>
+				<td><input type="color" name="color"></td>
+			</tr>
+
+
+			<tr class="tr1">
+				<th colspan="2"><span>step4 : 적고싶은말</span></th>
+			</tr>
+			<tr class="tr2">
+				<td colspan="2"><textarea rows="5" cols="60"></textarea></td>
+
+			</tr>
+			<tr>
+				<td class="td2" colspan="2"><input type="submit"> <input
+					type="reset"></td>
+
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
