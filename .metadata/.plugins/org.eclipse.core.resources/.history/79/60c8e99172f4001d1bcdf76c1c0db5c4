@@ -9,8 +9,8 @@
 	<fieldset align="center">
 		<legend>랜덤뽑기</legend>
 		<form action="Ex02createInput.jsp">
-			<input type="number" name="number"> 
-			<input type="submit" name="생성하기">
+			<input type="number" name="number"> <input type="submit"
+				name="생성하기">
 		</form>
 	</fieldset>
 </body>

@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/May/2023:14:19:59 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:00 +0900] "GET /Ex04Object/Ex02createInput.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:00 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:02 +0900] "GET /Ex04Object/Ex02createInput.jsp?number=3&%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0=%EC%A0%9C%EC%B6%9C HTTP/1.1" 200 768
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:08 +0900] "GET /Ex04Object/Ex02randomOutput.jsp?topic=q&item=1&item=2&item=3&%EB%9E%9C%EB%8D%A4%EB%BD%91%EA%B8%B0=%EC%A0%9C%EC%B6%9C HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:29 +0900] "GET /Ex04Object/Ex02randomOutput.jsp?topic=q&item=1&item=2&item=3&%EB%9E%9C%EB%8D%A4%EB%BD%91%EA%B8%B0=%EC%A0%9C%EC%B6%9C HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:31 +0900] "GET /Ex04Object/Ex02createInput.html HTTP/1.1" 200 368
+0:0:0:0:0:0:0:1 - - [17/May/2023:14:20:34 +0900] "GET /Ex04Object/Ex02createInput.jsp?number=4&%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0=%EC%A0%9C%EC%B6%9C HTTP/1.1" 200 870

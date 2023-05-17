@@ -11,7 +11,6 @@
 	<%
 	String topic = request.getParameter("topic");
 	String[] index = request.getParameterValues("item");
-
 	Random rd = new Random();
 	String pick = index[rd.nextInt(index.length)];
 	%>
