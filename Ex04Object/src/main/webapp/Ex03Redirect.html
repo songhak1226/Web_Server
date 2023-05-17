@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- <a href="Ex03Redirect.jsp"><button>이동</button></a> -->
+	<!-- 브라우저(클라이언트) 주소창에 작성된 경로
+			-> 브라우저(클라이언트)가 그 경로에 직접 요청을 했다!
+			sendRedirect()를 사용하면 요청과 응답이 2번씩 일어남
+			-> 원하는 주소를 알고있는 주소에 요청하는 느낌
+			-> a가 c로 가기위한 주소를 알기위해 c의 주소를 알고있는 b로가서 c의 주소를 받아온 다음 c로 가는 느낌 
+	 -->
+	 <form action="Ex03Redirect.jsp">
+	 	<select name="url">
+	 		<option>네이버</option>
+	 		<option>구글</option>
+	 		<option>다음</option>
+	 	</select>
+	 	<input type="submit">
+	 </form>
+</body>
+</html>

@@ -10,9 +10,9 @@
 <body>
 	<%
 	String topic = request.getParameter("topic");
-	String[] index = request.getParameterValues("item");
+	String[] item = request.getParameterValues("item");
 	Random rd = new Random();
-	String pick = index[rd.nextInt(index.length)];
+	String pick = item[rd.nextInt(item.length)];
 	%>
 	<h1>랜덤 당첨 게임</h1>
 	<fieldset align="center">
