@@ -6,4 +6,5 @@
   <module moduleId="org.eclipse.jst.jee.server:Ex02GetPost" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:EX00Servlet" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Ex05CookieSession" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Ex06Scope" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>

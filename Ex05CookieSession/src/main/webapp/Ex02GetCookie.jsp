@@ -17,5 +17,7 @@
 		out.print(c.getName() + ":" + c.getValue() + "<br>");
 	}
 	%>
+
+	<a href="Ex03RemoveCookie.jsp">쿠키삭제</a>
 </body>
 </html>
