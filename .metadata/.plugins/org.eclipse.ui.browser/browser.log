@@ -4,3 +4,11 @@
 
 5월 18, 2023 13:38:56.773 NEW SESSION
 5월 18, 2023 13:38:56.773 [7144:12904:0518/133856.759:ERROR:device_event_log_impl.cc(222)] [13:38:56.758] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+5월 19, 2023 11:28:58.105 NEW SESSION
+5월 19, 2023 11:28:58.105 [14800:6636:0519/112858.103:ERROR:device_event_log_impl.cc(222)] [11:28:58.102] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+5월 19, 2023 11:30:33.578 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+5월 19, 2023 12:21:43.928 [14800:6636:0519/122143.927:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+5월 19, 2023 14:00:42.290 [14800:6636:0519/140042.290:ERROR:device_event_log_impl.cc(222)] [14:00:42.289] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 19, 2023 14:02:54.455 [14800:6636:0519/140254.455:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 19, 2023 14:02:54.456 [14800:6636:0519/140254.455:ERROR:interface_endpoint_client.cc(696)] Message 1 rejected by interface blink.mojom.WidgetHost

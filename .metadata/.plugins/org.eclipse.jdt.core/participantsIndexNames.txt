@@ -3,6 +3,8 @@ C:\Users\SMHRD\Desktop\Web_Server\.metadata\.plugins\org.eclipse.jst.jsp.core\js
 \Ex05CookieSession\src\main\java
 C:\Users\SMHRD\Desktop\Web_Server\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1840743741.index
 \Ex03JSP\src\main\java
+C:\Users\SMHRD\Desktop\Web_Server\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3377808945.index
+\Ex07MVC\src\main\java
 C:\Users\SMHRD\Desktop\Web_Server\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\829548757.index
 \Ex06Scope\src\main\java
 C:\Users\SMHRD\Desktop\Web_Server\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2061239819.index
