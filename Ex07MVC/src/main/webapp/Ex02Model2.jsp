@@ -1,3 +1,5 @@
+<%@page import="com.smhrd.model.FullStack"%>
+<%@page import="java.util.List"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -9,12 +11,25 @@
 <body>
 	<!-- 세션안에 저장되어있는 학생정보(3명) 테이블 출력 -->
 	<%
-	String name = (String)session.getAttribute("name");
-	String major = (String)session.getAttribute("major");
-	String phone = (String)session.getAttribute("phone");
+	List<FullStack> list = (List<FullStack>) session.getAttribute("list");
 	%>
-	이름 : <%=name%><br> 
-	전공 : <%=major%><br> 
-	번호 : <%=phone%>
+	<table border=1>
+		<tr>
+			<th>이름</th>
+			<th>전공</th>
+			<th>번호</th>
+		</tr>
+		<%
+		for (FullStack fs : list) {
+		%>
+		<tr>
+			<th><%=fs.getName()%></th>
+			<th><%=fs.getMajor()%></th>
+			<th><%=fs.getPhone()%></th>
+		</tr>
+		<%
+		}
+		%>
+	</table>
 </body>
 </html>

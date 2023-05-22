@@ -2,6 +2,7 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:Ex01DataSend" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Ex03JSP" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Ex08Maven" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Ex07MVC" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Ex04Object" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Ex02GetPost" serverId="Tomcat v9.0 Server at localhost"/>

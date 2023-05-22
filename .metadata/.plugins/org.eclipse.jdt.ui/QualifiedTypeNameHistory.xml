@@ -13,4 +13,13 @@
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.smhrd.model.MyMember"/>
+    <fullyQualifiedTypeName name="java.io.Reader"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+    <fullyQualifiedTypeName name="com.smhrd.database.sqlSessionManager"/>
+    <fullyQualifiedTypeName name="com.smhrd.model.MymemberDAO"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
 </qualifiedTypeNameHistroy>
