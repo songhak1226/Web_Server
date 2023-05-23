@@ -999,3 +999,413 @@
 2023-05-22 12:29:13,699 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
 2023-05-22 12:29:13,700 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-05-22 12:29:13,701 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:13:41,037 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-23 14:13:52,383 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:13:52,383 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:13:52,386 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:13:52,386 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:28:39,439 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:28:39,440 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:28:39,441 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:28:39,441 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:28:55,057 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:28:55,057 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:28:55,058 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:28:55,058 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:44:16,170 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:16,170 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:44:16,171 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:16,171 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:44:32,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:32,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:44:32,799 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:32,800 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:44:48,478 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:48,479 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:44:48,480 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:44:48,480 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:46:37,876 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:46:37,876 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:46:37,878 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:46:37,878 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:48:19,276 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:48:19,276 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:48:19,278 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:48:19,278 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:48:23,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:48:23,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:48:23,074 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:48:23,074 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:49:11,897 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:49:11,897 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:49:11,899 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:49:11,899 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:50:17,015 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:17,015 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:50:17,015 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:17,015 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:50:20,387 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:20,388 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:50:20,388 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:20,389 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 14:50:25,177 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:25,177 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 14:50:25,178 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 14:50:25,178 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:03:34,680 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:34,680 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:03:34,682 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:34,682 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:03:38,580 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:38,580 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:03:38,581 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:38,581 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:03:41,348 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:41,348 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:03:41,351 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:03:41,351 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:05:07,690 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:05:07,691 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:05:07,691 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:05:07,691 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:06:09,794 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:06:09,794 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:06:09,794 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:06:09,795 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:12:35,123 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:12:35,123 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:12:35,124 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:12:35,124 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:13:36,487 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:13:36,487 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:13:36,488 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:13:36,488 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:13:48,567 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:13:48,568 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:13:48,568 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:13:48,569 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:19:00,589 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:19:00,590 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:19:00,590 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:19:00,590 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:20:20,565 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:20:20,565 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:20:20,566 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:20:20,566 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:20:26,714 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:20:26,715 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:20:26,716 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:20:26,716 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:21:35,909 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:21:35,910 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:21:35,910 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:21:35,910 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:22:18,992 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:22:18,993 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:22:18,994 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:22:18,994 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:22:33,155 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:22:33,155 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:22:33,157 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:22:33,157 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:23:25,078 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:23:25,078 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:23:25,079 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:23:25,079 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:24:06,499 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:24:06,499 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:24:06,500 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:24:06,500 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:26:41,419 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:26:41,419 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:26:41,420 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:26:41,420 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 15:27:48,609 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:27:48,609 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 15:27:48,610 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 15:27:48,610 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:05:53,590 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:05:53,590 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:05:53,591 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:05:53,591 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:06:37,211 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:06:37,212 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:06:37,212 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:06:37,212 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:07:49,672 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:07:49,672 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:07:49,672 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:07:49,673 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:08:06,552 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:08:06,553 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:08:06,553 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:08:06,553 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:10:51,453 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:10:51,453 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:10:51,454 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:10:51,454 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:13:40,977 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:13:40,978 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:13:40,978 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:13:40,978 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:21:26,854 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:21:26,854 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:21:26,855 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:21:26,855 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:22:21,421 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:21,421 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:22:21,422 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:21,422 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:22:23,594 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:23,595 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:22:23,595 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:23,595 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:22:57,009 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:57,009 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:22:57,010 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:57,010 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:22:59,460 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:59,461 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:22:59,461 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:22:59,462 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:23:16,143 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:16,143 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:23:16,143 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:16,143 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:23:22,490 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:22,490 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:23:22,491 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:22,491 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:23:28,011 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:28,012 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:23:28,012 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:28,012 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:23:35,948 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:35,948 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:23:35,949 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:35,949 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:23:43,801 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:43,801 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:23:43,802 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:23:43,802 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:24:00,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:24:00,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:24:00,322 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:24:00,323 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:24:01,335 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:24:01,337 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:24:01,339 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:24:01,340 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:27:16,068 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:27:16,069 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:27:16,071 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:27:16,071 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 16:27:29,175 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:27:29,175 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\main\resources
+2023-05-23 16:27:29,176 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 16:27:29,176 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven\src\test\resources
+2023-05-23 17:05:02,220 [Worker-89: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.smhrd:Ex08Maven:0.0.1-SNAPSHOT @ C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\pom.xml.
+2023-05-23 17:05:02,416 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:05:02,417 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:05:02,417 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:05:02,418 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:05:03,770 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:05:03,770 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:05:03,771 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:05:03,771 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:06:03,182 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:06:03,182 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:06:03,183 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:06:03,184 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:06:13,107 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:06:13,107 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:06:13,108 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:06:13,108 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:08:20,177 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:08:20,177 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:08:20,177 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:08:20,177 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:09:21,890 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:21,890 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:09:21,890 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:21,890 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:09:32,757 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:32,757 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:09:32,758 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:32,758 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:09:46,041 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:46,041 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:09:46,041 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:46,041 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:09:49,692 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:49,692 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:09:49,693 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:09:49,693 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:10:09,521 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:10:09,521 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:10:09,521 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:10:09,521 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:10:17,942 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:10:17,942 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:10:17,942 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:10:17,942 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:11:14,046 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:14,047 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:11:14,047 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:14,047 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:11:24,856 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:24,856 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:11:24,857 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:24,857 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:11:35,389 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:35,390 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:11:35,391 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:11:35,391 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:12:55,274 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:12:55,274 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:12:55,275 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:12:55,275 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:21:13,689 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:21:13,689 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:21:13,689 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:21:13,689 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:21:30,970 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:21:30,970 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:21:30,971 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:21:30,971 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:23:45,624 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:23:45,624 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:23:45,625 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:23:45,625 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:26:24,140 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:26:24,140 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:26:24,141 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:26:24,141 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:27:42,169 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:27:42,169 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:27:42,170 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:27:42,170 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:28:22,724 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:28:22,724 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:28:22,724 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:28:22,724 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:28:48,889 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:28:48,890 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:28:48,890 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:28:48,890 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:29:18,019 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:29:18,020 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:29:18,020 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:29:18,020 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:29:43,508 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:29:43,508 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:29:43,508 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:29:43,508 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:31:04,156 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:31:04,156 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:31:04,156 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:31:04,156 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:32:24,202 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:32:24,202 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:32:24,205 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:32:24,205 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:35:00,097 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:35:00,097 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:35:00,098 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:35:00,098 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:36:55,603 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:36:55,603 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:36:55,604 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:36:55,604 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:38:11,960 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:38:11,960 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:38:11,961 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:38:11,961 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:39:24,837 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:39:24,837 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:39:24,838 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:39:24,838 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:40:27,813 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:40:27,813 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:40:27,814 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:40:27,814 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:40:55,560 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:40:55,561 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:40:55,561 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:40:55,562 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:42:58,256 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:42:58,256 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:42:58,257 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:42:58,257 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:43:18,623 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:43:18,623 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:43:18,623 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:43:18,623 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:43:55,323 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:43:55,323 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:43:55,324 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:43:55,324 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:44:04,224 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:44:04,224 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:44:04,225 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:44:04,225 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:44:12,666 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:44:12,667 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:44:12,667 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:44:12,668 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:46:40,592 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:46:40,592 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:46:40,593 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:46:40,593 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:47:36,997 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:36,997 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:47:36,998 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:36,998 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:47:39,510 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:39,510 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:47:39,511 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:39,511 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:47:56,179 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:56,179 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:47:56,180 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:47:56,180 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:48:31,367 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:48:31,367 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:48:31,368 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:48:31,368 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:48:46,358 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:48:46,359 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:48:46,359 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:48:46,359 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:49:25,092 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:49:25,092 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:49:25,092 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:49:25,093 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:50:42,797 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:50:42,797 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:50:42,798 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:50:42,798 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:51:21,286 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:51:21,287 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:51:21,289 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:51:21,290 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:52:03,972 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:03,972 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:52:03,972 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:03,972 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:52:21,071 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:21,072 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:52:21,072 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:21,072 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:52:49,531 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:49,531 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:52:49,532 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:52:49,532 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:53:33,463 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:53:33,463 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:53:33,463 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:53:33,463 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
+2023-05-23 17:53:39,981 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:53:39,982 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\main\resources
+2023-05-23 17:53:39,982 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-23 17:53:39,982 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SMHRD\Desktop\Web_Server\Ex08Maven_FrontController\src\test\resources
