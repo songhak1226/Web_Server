@@ -30,7 +30,7 @@ public class JoinCon extends HttpServlet {
 		int cnt = dao.join(member); // 회원가입 기능
 		
 		if (cnt > 0) { // 회원가입 성공
-			System.out.println("회원가입 성공");
+			System.out.println("회원가입 성공!!");
 			response.sendRedirect("index.jsp");
 		} else { // 회원가입 실패
 			System.out.println("회원가입 실패");
