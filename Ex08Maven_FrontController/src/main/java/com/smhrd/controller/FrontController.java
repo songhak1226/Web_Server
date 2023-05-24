@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 public class FrontController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
-	Map<String, Object> list = null;
+	Map<String, Command> list = null;
 
 	// 최초로 요청 들어왔을 때 딱 한번만 실행
 	public void init(ServletConfig config) throws ServletException {
@@ -24,7 +24,7 @@ public class FrontController extends HttpServlet {
 		// -> (key(요청 경로-join.do/login.do -> String)-value(그 기능을 수행해줄 컨트롤러 객체))
 		list = new HashMap<>();
 		list.put("/join.do",new JoinController());
-		//list.put("/login.do",new LoginController());
+		list.put("/login.do",new LoginController());
 		
 	}
 
@@ -33,11 +33,7 @@ public class FrontController extends HttpServlet {
 		String path = request.getContextPath();
 		String subUri = uri.substring(path.length());
 		
-		System.out.println(uri);
-		System.out.println(path);
-		System.out.println(subUri);
-		
-		JoinController controller = (JoinController)list.get(subUri);
+		Command controller = list.get(subUri);
 		String des = controller.process(request, response);
 		System.out.println(des);
 		
