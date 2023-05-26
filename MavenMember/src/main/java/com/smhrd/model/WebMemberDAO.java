@@ -1,5 +1,7 @@
 package com.smhrd.model;
 
+import java.util.List;
+
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 
@@ -26,16 +28,57 @@ public class WebMemberDAO {
 
 	// 로그인
 	public WebMember login(WebMember member) {
-		WebMember member2 = null;
-		// 세션 생성
 		SqlSession sqlSession = sqlSessionFactory.openSession(true);
+		WebMember loginMember = null;
 		try {
-			member2 = sqlSession.selectOne("WebMemberDAO.login", member);
+			loginMember = sqlSession.selectOne("WebMemberDAO.login", member);
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
 			sqlSession.close();
 		}
-		return member2;
+		return loginMember;
+	}
+
+	// 업데이트
+	public int update(WebMember updateMember) {
+		SqlSession sqlSession = sqlSessionFactory.openSession(true);
+		int cnt = 0;
+		try {
+			cnt = sqlSession.update("WebMemberDAO.update", updateMember);
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			sqlSession.close();
+		}
+		return cnt;
+	}
+	
+	//리스트
+	public List<WebMember> select(){
+		SqlSession sqlSession = sqlSessionFactory.openSession(true);
+		List<WebMember> list = null;
+		try {
+			list = sqlSession.selectList("WebMemberDAO.select"); // 넘겨줘야 하는 값이 없으면 매개인자는 1개만 쓴다
+		} catch(Exception e) {
+			e.printStackTrace();
+		} finally {
+			sqlSession.close();
+		}
+		return list;
+	}
+	
+	// 삭제
+	public int delete(String email) {
+		SqlSession sqlSession = sqlSessionFactory.openSession(true);
+		int cnt = 0;
+		try {
+			cnt = sqlSession.delete("WebMemberDAO.delete",email);
+		} catch(Exception e) {
+			e.printStackTrace();
+		} finally {
+			sqlSession.close();
+		}
+		return cnt;
 	}
 }

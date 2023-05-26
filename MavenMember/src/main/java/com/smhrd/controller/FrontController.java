@@ -21,6 +21,10 @@ public class FrontController extends HttpServlet {
 		list = new HashMap<>();
 		list.put("/join.do", new JoinController());
 		list.put("/login.do", new LoginController());
+		list.put("/logout.do", new LogoutController());
+		list.put("/update.do", new UpdateController());
+		list.put("/delete.do", new DeleteController());
+		
 
 	}
 

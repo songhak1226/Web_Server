@@ -1,3 +1,4 @@
+<%@page import="com.smhrd.model.WebMember"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -11,6 +12,11 @@
 <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 </head>
+<%
+	WebMember loginMember = (WebMember)session.getAttribute("loginMember");
+	// 로그인 x -> loginMember : null
+	// 로그인 o -> loginMember : 로그인한 회원의 정보 null x
+%>
 <body>
 	<!-- Wrapper -->
 	<div id="wrapper">
@@ -18,8 +24,16 @@
 		<header id="header" class="alt"> <a href="index.html"
 			class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a> <nav>
 		<!-- 로그인 전 -->
-		<a href="#menu">로그인</a>
-		<a href="update.jsp">회원정보 수정</a>
+		<%if(loginMember==null){ %>
+			<a href="#menu">로그인</a>
+		<%} else { %>
+		<!-- 이메일이 "admin"일 경우 -> 회원전체정보 -->
+			<%if(loginMember.getEmail().equals("admin")){ %>
+				<a href="select.jsp">회원전체정보</a>
+			<%} %>
+			<a href="update.jsp">회원정보수정</a>
+			<a href="logout.do">로그아웃</a>
+		<%} %>
 		 <!-- 로그인 후 Logout.jsp로 이동할 수 있는'로그아웃'링크와 '개인정보수정'링크를 출력하시오. -->
 		</nav> </header>
 
@@ -27,9 +41,9 @@
 		<nav id="menu">
 		<ul class="links">
 			<li><h5>로그인</h5></li>
-			<form action="login.do">
-				<li><input type="text" placeholder="Email을 입력하세요"></li>
-				<li><input type="password" placeholder="PW를 입력하세요"></li>
+			<form action="login.do" method="post">
+				<li><input type="text" name="email" placeholder="Email을 입력하세요"></li>
+				<li><input type="password" name="pw" placeholder="PW를 입력하세요"></li>
 				<li><input type="submit" value="LogIn" class="button fit"></li>
 			</form>
 		</ul>
@@ -48,7 +62,11 @@
 		<section id="banner" class="major">
 		<div class="inner">
 			<header class="major">
+			<%if(loginMember == null) { %>
 			<h1>로그인 한 세션아이디를 출력해주세요</h1>
+			<%}else{ %>
+			<h1><%=loginMember.getEmail() %></h1>
+			<%} %>
 			<!-- 로그인 후 로그인 한 사용자의 세션아이디로 바꾸시오.ex)smart님 환영합니다 --> </header>
 			<div class="content">
 				<p>
@@ -149,21 +167,33 @@
 			<div class="contact-method">
 				<span class="icon alt fa-envelope"></span>
 				<h3>Email</h3>
+				<%if(loginMember==null){ %>
 				<a href="#">로그인 한 사람의 이메일을 출력</a>
+				<%}else{ %>
+				<a href="#"><%=loginMember.getEmail() %></a>
+				<%} %>
 				<!-- 로그인 한 사용자의 이메일을 출력하시오 -->
 			</div>
 			</section> <section>
 			<div class="contact-method">
 				<span class="icon alt fa-phone"></span>
 				<h3>Phone</h3>
+				<%if(loginMember==null){ %>
 				<span>로그인 한 사람의 전화번호를 출력</span>
+				<%}else{ %>
+				<span><%=loginMember.getTel() %></span>
+				<%} %>
 				<!-- 로그인 한 사용자의 전화번호를 출력하시오 -->
 			</div>
 			</section> <section>
 			<div class="contact-method">
 				<span class="icon alt fa-home"></span>
 				<h3>Address</h3>
+				<%if(loginMember==null){ %>
 				<span>로그인 한 사람의 집주소를 출력</span>
+				<%}else{ %>
+				<span><%=loginMember.getAddress() %></span>
+				<%} %>
 				<!-- 로그인 한 사용자의 집주소를 출력하시오 -->
 			</div>
 			</section> </section>

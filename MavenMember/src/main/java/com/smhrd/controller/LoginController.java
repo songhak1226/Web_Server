@@ -25,27 +25,22 @@ public class LoginController implements Command {
 			WebMember member = new WebMember(email, pw);
 
 			WebMemberDAO dao = new WebMemberDAO();
-			WebMember member2 = dao.login(member);
-			// 없는 정보 입력 -> null
-			// System.out.println("닉네임 : " + member2.getNick());
-
-			if (member2 != null) { // 로그인 성공
+			WebMember loginMember = dao.login(member);
+			
+			//loginMember
+			if (loginMember != null) { // 로그인 성공
+				// 세션 회원정보 저장, index.jsp 이동
 				HttpSession session = request.getSession();
-				// 세션에 member2를 저장
-				// index.jsp에서는 닉네임 님 환영합니다
-				session.setAttribute("member", member2);
-				// index.jsp로 이동
+				session.setAttribute("loginMember", loginMember);
 				url = "index.jsp";
 				System.out.println("로그인성공");
 			} else { // 로그인 실패
-				// login.html로 이동
+				// 그냥 index.jsp 이동
 				url = "index.jsp";
 				System.out.println("로그인실패");
 			}
 		} catch (UnsupportedEncodingException e) {
 			System.out.println("인코딩 방식 잘못 지정함");
-		} catch (IOException e) {
-			System.out.println("리다이렉팅 경로 잘못 지정함");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

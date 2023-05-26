@@ -1,3 +1,6 @@
+<%@page import="com.smhrd.model.WebMember"%>
+<%@page import="java.util.List"%>
+<%@page import="com.smhrd.model.WebMemberDAO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -8,6 +11,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="assets/css/main.css" />
 </head>
+<%
+	//회원정보 불러오기 (DB) / 컨트롤러 거치지 않음
+	WebMemberDAO dao = new WebMemberDAO();
+	List<WebMember> list = dao.select();
+	System.out.print(list.size());
+%>
 <body style="text-align: center;">
 	<!-- Wrapper -->
 	<div id="wrapper">
@@ -23,9 +32,19 @@
 				<td>Address</td>
 			</tr>
 			<!-- 2.모든 회원의 이메일(email),전화번호(tel),주소(address)를 출력하시오. -->
+			<%
+			for(WebMember w:list){
+				out.print("<tr>");
+				out.print("<td>"+w.getEmail()+"</td>");
+				out.print("<td>"+w.getTel()+"</td>");
+				out.print("<td>"+w.getAddress()+"</td>");
+				out.print("<td><a href='delete.do?email="+w.getEmail()+"'>삭제</A></td>");
+				out.print("</tr>");
+			}
+			%>
 		</table>
 		</nav>
-		<a href="main.jsp" class="button next scrolly">되돌아가기</a>
+		<a href="index.jsp" class="button next scrolly">되돌아가기</a>
 	</div>
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
